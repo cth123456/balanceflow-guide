@@ -4,6 +4,7 @@
 <p align="center">
 <a href="https://testflight.apple.com/join/rqWw5fcg">TestFlight 测试入口</a> ·
 <a href="https://hengdong-balanceflow.fancygrebe6.chatgpt.site/">手机版使用说明</a> ·
+<a href="https://github.com/cth123456/balanceflow-guide">GitHub 使用说明</a> ·
 <a href="docs/user-guide.md">完整使用手册</a> ·
 <a href="docs/ai-setup.md">AI 配置教程</a> ·
 <a href="docs/exercise-library-conversion.md">训练库转换与导入</a> ·
@@ -118,6 +119,6 @@ AI 教练可以这样问：
 - 实测心率、活动能量和路线依赖设备、授权和实际采样；没有样本时不能当作已测得。
 - 当前 AI 教练对话仅加载当天最近 30 条，不是永久聊天档案。重要结论请另行保存。
 - 自动复盘、备份和小组件刷新受 iOS 调度影响，不保证在设定分钟准点执行。
-- 本仓库只放面向用户的使用说明，不包含 App 源码、签名配置、密钥或个人健康数据。
+- 本仓库目前为私有仓库，教程及仓库内文件仅有权限的访客可访问；这与单独公开的 TestFlight 测试入口不同。
 
 反馈问题请附 App 版本、具体操作、预期和实际结果。需要日志时，在 App **设置 → 关于衡动 → 导出脱敏诊断日志**中生成；不要上传完整备份或密钥。
